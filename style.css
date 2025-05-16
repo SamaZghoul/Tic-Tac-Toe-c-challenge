@@ -1,0 +1,43 @@
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 2px solid black;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+    font-size: 2em;
+    cursor: pointer;
+    background-color: white;
+    color: darkblue;
+    border: none;
+}
+
+    button:hover {
+        background-color: darkblue;
+        color: white;
+    }
+
+.option-button {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+    .option-button:hover {
+        background-color: #d0e0ff;
+    }
