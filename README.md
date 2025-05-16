@@ -1,2 +1,34 @@
-# Tic-Tac-Toe-c-challenge
-Interactive 2-player Tic Tac Toe with a C++ twist! Players must answer a unique C++ multiple-choice question to place their mark. Features include a 15s turn timer, randomized questions each round, win/tie detection, and a clean UI—perfect for learning, classrooms, or coding challenges.
+# Tic-Tac-Toe-c++-challenge
+# Tic Tac Toe C++ Challenge 🎮💻
+
+An interactive Tic Tac Toe game with a twist:
+Each move requires answering a multiple-choice C++ programming question!
+
+## ✅ Features
+
+* 2-player turn-based gameplay (Team X vs Team O)
+* Each move requires answering a C++ question
+* 15-second countdown timer for each turn
+* Questions are randomly assigned each game
+* Win detection & tie logic
+* Clean, responsive interface
+
+## 🎯 Purpose
+
+A fun and engaging way to practice C++ fundamentals through a classic game format — great for classrooms, competitions, or personal skill-building!
+
+## 🚀 How to Run
+
+1. Open `index.html` in any modern web browser.
+2. Play with a friend — answer correctly to claim your square.
+3. First team to align 3 marks wins!
+
+## 📂 Files
+
+* `index.html` – Main game logic
+* `style.css` (if applicable) – Game styling
+* `script.js` (if separated) – JavaScript logic
+
+---
+
+Made for learning and fun!
