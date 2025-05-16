@@ -26,8 +26,8 @@ A fun and engaging way to practice C++ fundamentals through a classic game forma
 ## 📂 Files
 
 * `index.html` – Main game logic
-* `style.css` (if applicable) – Game styling
-* `script.js` (if separated) – JavaScript logic
+* `style.css`  – Game styling
+* `script.js` – JavaScript logic
 
 ---
 
