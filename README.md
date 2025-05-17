@@ -19,6 +19,10 @@ A fun and engaging way to practice C++ fundamentals through a classic game forma
 
 ## 🚀 How to Run
 
+## 🌐 Live Demo
+
+Try the live game here: [Play Now](https://samazghoul.github.io/Tic-Tac-Toe-challenge/)
+
 1. Open `index.html` in any modern web browser.
 2. Play with a friend — answer correctly to claim your square.
 3. First team to align 3 marks wins!
